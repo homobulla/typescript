@@ -1,4 +1,4 @@
-## Typescript
+## Typescript 之路
 
 -   grammar:
     -   basicType
