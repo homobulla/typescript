@@ -4,3 +4,5 @@
     -   basicType
     -   variable-declaration
     -   interface
+- use:
+    - blog
