@@ -6,3 +6,4 @@
     -   interface
 - use:
     - blog
+### typescript
